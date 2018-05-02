@@ -14,7 +14,7 @@ function holidayCountdown(days , holiday){
   return `It's ${days} days until ${holiday}!`
 }
 
-happyHolidays();
-happyHolidayTo("you");
-happyHolidaysto("Independence Day" ,  "you");
-holidayCountdown("Independence Day", 20 );
+// happyHolidays();
+// happyHolidayTo("you");
+// happyHolidaysto("Independence Day" ,  "you");
+// holidayCountdown("Independence Day", 20 );
